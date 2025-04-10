@@ -2,11 +2,7 @@
 
 # Autism Companion
 
-<p align="center">
-  <img src="/api/placeholder/300/150" alt="Autism Companion Logo" />
-  <br>
-  <em>Empowering Autistic Children with Personalized AI Assistance</em>
-</p>
+![Autism Companion Banner](./images/children-using-technology.jpg)
 
 ## 💡 Overview
 
