@@ -1,1 +1,1 @@
-# Autism_Companian_Ai_Project_Kaggle
+# Autism_Companian_GenAi_Project_Kaggle
