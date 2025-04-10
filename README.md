@@ -104,4 +104,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Sudarshanam Yessasvini - [yessasvini.s@gmail.com](mailto:yessasvini.s@gmail.com)  
 Project Link: [https://github.com/yessasvini/autism-companion](https://github.com/yessasvini/autism-companion)
-Youtube Link: https://youtu.be/ZSsGh_4jQRU
+Youtube Link: https://youtu.be/ZSsGh_4jQRUhttps://wp.me/pgt8oH-8
+Blog Post Link: https://wp.me/pgt8oH-8
